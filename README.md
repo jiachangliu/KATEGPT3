@@ -66,7 +66,7 @@ You can compute and save the kNN similary indices by following the procedure as 
 
 Once you go through the procedure in Section 3 and get a ".dat" file, you can compare and verify your kNN similariy indices with our already computed and saved ones via this [link](https://drive.google.com/drive/folders/1SNijWViEQhDb0u21TjH2JBLwIwxRi5m2?usp=sharing).
 
-If you are not able to produce the kNN ".dat" files or the results shown in the paper, please don't hesitate to reach me via email or open an issue on this GitHub repository.
+If you are not able to produce the kNN ".dat" files or the results shown in the paper, please don't hesitate to reach out to me via email or open an issue on this GitHub repository.
 
 
 <!-- ## Citing Our Work ##
