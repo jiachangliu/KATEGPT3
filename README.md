@@ -50,6 +50,25 @@ b. For the kNN_{nli} results, you can use the SentTransformer model called "robe
 
 c. For the kNN_{nli+stsb} results, you can use the SentTransformer model called "roberta-large-stsb".
 
+
+## 4. Reproducibility
+
+Section 2 and Section 3 jointly give a demo on how to produce the results on the TriviaQA dataset shown in the paper.
+
+Below, we provide the links to all preprocessed datasets and saved kNN similarity indices, from which you can reproduce all the results shown in the paper.
+
+### 4.1 Preprocessed Datasets
+
+All preprocessed datasets mentioned in the paper can be found and downloaded via this [link](https://drive.google.com/drive/folders/18OBjkTjNhOXAinB68gOeGKWzpBRV0rhU?usp=sharing).
+
+### 4.2 Saved kNN Indices based on Pre-trained Encoders
+You can compute and save the kNN similary indices by following the procedure as demonstrated in Section 3.
+
+Once you go through the procedure in Section 3 and get a ".dat" file, you can compare and verify your kNN similariy indices with our already computed and saved ones via this [link](https://drive.google.com/drive/folders/1SNijWViEQhDb0u21TjH2JBLwIwxRi5m2?usp=sharing).
+
+If you are not able to produce the kNN ".dat" files or the results shown in the paper, please don't hesitate to reach me via email or open an issue on this GitHub repository.
+
+
 <!-- ## Citing Our Work ##
 If you find our work useful in your research, please consider citing the following paper:
 
