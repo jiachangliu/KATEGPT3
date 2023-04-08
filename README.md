@@ -34,7 +34,7 @@ As shown in the above inference demonstration, the key step to do inference is t
 
 To reproduce the "trivia_qa_train_78785_dev_full_roberta-large-nli-stsb-mean-tokens_cosine_mean.dat" file above, please run the following commands:
 ```
-cd inference
+cd retrieval
 chmod 755 trivia_qa.sh
 ./trivia_qa.sh
 ```
